@@ -1,0 +1,17 @@
+{
+	"origin": ["#[candle1: #candle#]colorful#","#[candle1: #candle#]decorated#","#mini#"]
+,
+	"basic": ["...........__#candle#_#candle#_#candle#__............\n....___|______________|___.....\n__|_____________________|__\n|_________________________|"]
+,
+  "mini": ["......._#candle#_\n.....|#decor##decor#|\n|#color##color##color##color#|"]
+,
+	"colorful": ["............_#candle1#_#candle1#_#candle1#_\n...........|#color##color##color##color##color#|\n......|#color##color##color##color##color##color##color#|\n|#color##color##color##color##color##color##color##color##color#|"]
+,
+	"decorated": ["............_#candle1#_#candle1#_#candle1#_\n...........|#decor##decor##decor##decor##decor#|\n......|#color##color##color##color##color##color##color#|\n|#color##color##color##color##color##color##color##color##color#|"]
+,
+	"candle": ["🕯️","💡","🔥"]
+,
+	"color": ["🟩","🟧","🟨","🟪","🟥","🟦","🟫"]
+,
+	"decor": ["❄️","⭐","🌼","🌺","🏵️","🌸","🎀","💎","🍇","🍈","🍉","🍋","🍎","🍏","🍒","🍑","🍓","🍬","🍭"]
+}

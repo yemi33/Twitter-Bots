@@ -1,0 +1,7 @@
+origin ->￣￣￣￣￣￣￣￣￣￣\n     <step>    <step>\n    <step>  <step>  <step>  \n    <step>    <step>  \n   <step>    <step>\n<character>___<obstacle>___<obstacle>___<obstacle>___<obstacle>_
+
+step -> ___|_____|______|_____|____|___|___<item>___|_<item>_|<item>| | | |
+
+character -> 🧚
+obstacle -> __|__|__|__|__|__|🔥|🔥|🦠|🦠|🌵|🎄|🎄|🌳|🌳
+item -> ⭐|💓|🍪|🧊

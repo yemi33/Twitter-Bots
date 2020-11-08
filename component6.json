@@ -1,0 +1,20 @@
+{
+	"origin": ["#depressed# @VicAdviser"],
+	"depressed": ["#Am I#","#Why am#","#Sometimes#","#How should I#"],
+	"Am I": ["Am I the  #insult#? It seems like the #world# has #verb_phrase# me."],
+	"insult": ["fool","nobody","wallflower"],
+	"world": ["world","earth","universe"],
+	"verb_phrase": ["deserted","left","betrayed","tricked","lied to"],
+	"Why am": ["Why am I always so #adj#?"],
+	"adj": ["dumb","stupid","depressed","pessimistic","scared", "futile", "deserted"],
+	"Sometimes": ["#sometime# I #feel_like# the #noun# is #adj#."],
+	"sometime": ["Sometimes","Often","Some days"],
+	"feel_like": ["feel like","think that","feel as if"],
+	"noun": ["#world#"],
+	"How should I": ["How should I #life#?", "How hollow is the #world#"],
+	"I feel": ["I feel #adj#.", "I feel #verb_phrase#."],
+	"verb": ["live","get through","survive"],
+	"life": ["live life","get through life","survive school","survive my parents","survive toxic friends"],
+	"reply": ["Thanks, it really means a lot @VicAdviser", "Not really", "What is wrong with you @dis_aint_it"]
+}
+

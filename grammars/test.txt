@@ -1,0 +1,2 @@
+ACT1 -> If a <PROP @prop> is introduced in the first act, it should be used in the second act.
+PROP -> $nouns.txt

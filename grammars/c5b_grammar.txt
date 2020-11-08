@@ -1,0 +1,9 @@
+forest -><topsky> <topsky> <topsky> <topsky> <topsky> <sunmoon> <topsky>\n<sky> <sky> <sky> <sky> <sky> <sky> <sky>\n<skyline> <skyline> <skyline> <skyline> <skyline> <skyline> <skyline> \n<greenery> <canopy> <canopy> <canopy> <canopy> <canopy> <greenery>\n<greenery> <forestfloor> <forestfloor> <forestfloor> <forestfloor> <forestfloor> <greenery>
+
+forestfloor ->🍀|☘|🌾|🌱|🥀|🌵|🌾|🍂|🍄|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🕷|🐛|🐌|🐢|🐾|🦃|🐓|🐥|🦘|🦨|🦔|🐇|🐿|🦙|🦒|🐘|🦏|🦌|🐆|🐅|🦝|🦍|🦧🍀|☘|🌾|🌱|🥀|🌵|🌾|🍂|🍄|🏕|🏕|🍀|☘|🌾|🌱|🥀|🌵|🌾|🍂|🍄|🌳|🌴|🌲|🌳|🌴|🌲|🏕|🏕|🏕|🏕|🏕|🏕|🐍|🐍
+greenery ->🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲|🌳|🌴|🌲
+canopy ->🍃|🌳|🌴|🌲|🌳|🌴|🌲|🍃|🌳|🌴|🌲|🌳|🌴|🌲|🕊|🦅|🦉|🦜|🦋|🕸|🕷|🍃|🌳|🌴|🌲|🌳|🌴|🌲|🍃|🌳|🌴|🌲|🌳|🌴|🌲|🐝
+skyline ->⛰|🏔|🗻|🌋|⛰|🏔|🗻|⛰|🏔|🗻|🌪
+sky ->☄|❄|⚡|🌩|🌨|🌧|⛈|☁|🌠|🌟|⭐|*|✵|✯|🪐|☁️|☁️|☁️|☄|❄|⚡|🌩|🌨|🌧|⛈|☁|☁️|☁️|☁️
+topsky ->☄|🌩|🌨|🌧|⛈|☁|🌠|🌟|⭐|*|✵|✯|☁️|☁️|☁️|☄|🌩|🌨|🌧|⛈|☁|🌟|⭐|*|✵|✯|☁️|☁️|☁️
+sunmoon ->🌑|🌒|🌓|🌔|🌕|🌖|🌗|🌘|🌙|☀️|⛅|🌤|🌙|☀|⛅|🌤|🌙|☀️|⛅|🌤
